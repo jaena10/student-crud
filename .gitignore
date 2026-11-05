@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build artifacts
+dist/
+frontend/dist/
+frontend/dist-ssr/
+target/
+student/target/
+
+# IDE and Editor files
+.idea/
+student/.idea/
+*.iml
+student/*.iml
+.vscode/
+frontend/.vscode/
+*.iws
+*.ipr
+.settings/
+.classpath
+.project
+.sts4-cache/
+
+# System & logs
+*.log
+logs/
+.DS_Store
+Thumbs.db
