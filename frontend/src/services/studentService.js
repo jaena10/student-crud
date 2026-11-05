@@ -21,7 +21,7 @@ export function getBaseUrl() {
     return '/mangulabnan/students';
   }
 
-  return 'https://student-backend.onrender.com/mangulabnan/students';
+  return 'https://student-backend-fsuy.onrender.com/mangulabnan/students';
 }
 
 /**
